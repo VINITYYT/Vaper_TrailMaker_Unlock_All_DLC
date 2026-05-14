@@ -1,0 +1,7 @@
+UpdateVersion = V3
+Link_to_Updated_Vaper_Unlock_All_DlC=
+Link_To_Updated_Il2CppDumper.zip=https://github.com/c01ns/Il2CppDumper/releases/download/v39-support/Il2CppDumper-win-x64-net8-v39.zip
+
+Link_To_Updated_Il2CppDumper_Method=[unzip]
+Link_to_Updated_Vaper_Unlock_All_DlC_Method=[extract].[Vaper Unlock All DLC].[exe]
+-- METHOD, NAME, EXTENTION
