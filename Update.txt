@@ -4,4 +4,6 @@ Link_To_Updated_Il2CppDumper.zip=https://github.com/c01ns/Il2CppDumper/releases/
 
 Link_To_Updated_Il2CppDumper_Method=[unzip]
 Link_to_Updated_Vaper_Unlock_All_DlC_Method=[extract].[Vaper Unlock All DLC].[exe]
+
+Il2CppDumper_Name=Il2CppDumper.exe
 -- METHOD, NAME, EXTENTION
