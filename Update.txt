@@ -1,5 +1,5 @@
-UpdateVersion = V3
-Link_to_Updated_Vaper_Unlock_All_DlC=
+UpdateVersion = V4
+Link_to_Updated_Vaper_Unlock_All_DlC=https://raw.githubusercontent.com/VINITYYT/Vaper_TrailMaker_Unlock_All_DLC/refs/heads/main/TrailMaker%20Unlock%20All%20DLC.exe
 Link_To_Updated_Il2CppDumper.zip=https://github.com/c01ns/Il2CppDumper/releases/download/v39-support/Il2CppDumper-win-x64-net8-v39.zip
 
 Link_To_Updated_Il2CppDumper_Method=[unzip]
